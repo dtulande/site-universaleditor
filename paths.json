@@ -1,0 +1,10 @@
+{
+   "mappings": [
+      "/content/ddp-daniel-tulande/:/",
+      "/content/ddp-daniel-tulande/configuration:/.helix/config.json",
+      "/content/ddp-daniel-tulande/metadata:/metadata.json"
+  ],
+  "includes": [
+      "/content/ddp-daniel-tulande/"
+  ]
+}
